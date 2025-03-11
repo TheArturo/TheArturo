@@ -4,6 +4,8 @@
 [<img src="https://img.shields.io/github/followers/TuUsuario?label=follow&style=social" height="22" title="Sígueme en GitHub" />](https://github.com/TheArturo) 
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/thearturo_idk)
 [![Correo](https://img.shields.io/badge/-Correo-c14438?style=flat&logo=Gmail&logoColor=white)](arturo153cesayt@gmail.com)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white).(https://steamcommunity.com/profiles/76561199071984865/)
+
 
 ### 👋 Sobre mí  
 Mi nombre es **Arturo**, soy estudiante de **Ingeniería de Sistemas e Informática** en la **Universidad Tecnológica del Perú (UTP)**.  
