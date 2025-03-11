@@ -1,6 +1,6 @@
 ## ¡Hola Mundo! 🌎
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tu-linkedin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-arturo-torres-negrini-33b908314/)
 [<img src="https://img.shields.io/github/followers/TuUsuario?label=follow&style=social" height="22" title="Sígueme en GitHub" />](https://github.com/TheArturo) 
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/thearturo_idk)
 [![Correo](https://img.shields.io/badge/-Correo-c14438?style=flat&logo=Gmail&logoColor=white)](arturo153cesayt@gmail.com)
