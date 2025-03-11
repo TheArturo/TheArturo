@@ -29,6 +29,7 @@ También disfruto escuchar música 🎵, ver películas 🎬 y compartir conocim
 
 ### 📊 Estado de GitHub  
 <img title="Mi estado" align="left" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=TuUsuario&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true" />
+<img title="Mi estado" align="left" heigth="320" width="420" src="[https://github-readme-stats.vercel.app/api?username=TuUsuario&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)" />
 
 ---
 
