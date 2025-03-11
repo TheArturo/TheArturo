@@ -36,7 +36,7 @@ También disfruto escuchar música 🎵, ver películas 🎬 y compartir conocim
 ### 📌 Estadísticas  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josuerv99&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="Lenguajes más usados" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josuerv99&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=3" alt="Lenguajes más usados" width="400"/>
 </p>
 
 
