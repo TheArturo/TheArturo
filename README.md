@@ -23,7 +23,7 @@ También disfruto escuchar música 🎵, ver películas 🎬 y compartir conocim
 💬 Me encanta hablar, tambien siempre estoy dispuesto a ayudar y aprender juntos.  
 
 ### 📫 Contáctame:
-   - <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): Arturo#1234  
+   - <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): copyarlo 
 
 ### 📊 Estado de GitHub  
 <img title="Mi estado" align="left" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=TuUsuario&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true" />
