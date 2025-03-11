@@ -29,7 +29,18 @@ También disfruto escuchar música 🎵, ver películas 🎬 y compartir conocim
 
 ### 📊 Estado de GitHub  
 <img title="Mi estado" align="left" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=TuUsuario&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true" />
-<img title="Mi estado" align="left" heigth="320" width="420" src="[https://github-readme-stats.vercel.app/api?username=TuUsuario&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)" />
+
+<img title="Dominaci" align="left" heigth="320" width="420" src="[https://github-readme-stats.vercel.app/api?username=TuUsuario&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)" />
+<p>
+  <h3 align="center">Stats:</h3>
+<p>
+    <a align="left">
+      <p><img align="left" 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=josuerv99&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="josuerv99" /></p></a>
+    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=josuerv99&show_icons=true&theme=dark&locale=en" alt="josuerv99" /></p></a>  
+  </p>
+</p>
+
 
 ---
 
