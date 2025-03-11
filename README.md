@@ -24,22 +24,6 @@ También disfruto escuchar música 🎵, ver películas 🎬 y compartir conocim
 
 ### 📫 Contáctame:
    - <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): copyarlo 
-
-## 📊 Estado de GitHub  
-
-<p align="center">
-  <img title="Mi estado" src="https://github-readme-stats.vercel.app/api?username=Cesar&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true" width="420"/>
-</p>
-
----
-
-### 📌 Estadísticas  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josuerv99&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=3" alt="Lenguajes más usados" width="400"/>
-</p>
-
-
 ---
 
 📌 *Última edición: [10/03/2025]*
