@@ -48,11 +48,15 @@ También disfruto de la música 🎵, el cine 🎬 y los videojuegos 🎮.
 ### 📚 Actualmente aprendiendo
 
 <p align="center">
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" />
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" />
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" />
-  <img height="25" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" title="JavaScript" height="35" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" title="React" height="35" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" title="HTML" height="35" style="margin: 0 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" height="35" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP" title="PHP" height="35" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" alt="Laravel" title="Laravel" height="35" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" title="MySQL" height="35" style="margin: 0 10px;" />
 </p>
+
 
 ---
 
